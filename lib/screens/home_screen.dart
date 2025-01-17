@@ -1,3 +1,4 @@
+import 'package:Mess/main.dart';
 import 'package:Mess/screens/complaint_register.dart';
 import 'package:Mess/screens/menu_screen.dart';
 import 'package:Mess/screens/sign_in.dart';
@@ -57,6 +58,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     fetchData(); // Fetch data when the screen loads
+    MyApp.analytics.logEvent(name: 'app_opened');
   }
 
   @override
