@@ -1,16 +1,9 @@
-# mess_v4
+Mess App
+Mess App is a Flutter-based mobile application designed to provide users with essential information about the mess, its menu, and a facility for submitting complaints. The app aims to make it easier for students or residents to access the daily menu and report any issues related to the mess.
 
-A new Flutter project.
+Features
+Daily Menu: View the daily mess menu with details on the food offerings.
+Necessary Information: Access important information such as mess timings, payment details, and contact information.
+Complaint Register: Submit complaints or suggestions regarding the mess services.
+User-Friendly Interface: An intuitive and easy-to-navigate design to enhance user experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
